@@ -603,7 +603,7 @@ p {
       background-color: white; }
 
 .banner--left {
-  background: url("../../img/block3_banner2.jpg") left center no-repeat #d7dbd5;
+  background: url("../img/block3_banner2.jpg") left center no-repeat #d7dbd5;
   background-size: cover;
   -webkit-box-pack: start;
   -ms-flex-pack: start;
